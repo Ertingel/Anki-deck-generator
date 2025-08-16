@@ -1,0 +1,150 @@
+[
+	[
+		"事務的",
+		"じむてき",
+		"2 adj-na",
+		"",
+		1999799,
+		[
+			{
+				"content": {
+					"content": [
+						{
+							"content": "impersonal",
+							"tag": "li"
+						},
+						{
+							"content": "perfunctory",
+							"tag": "li"
+						},
+						{
+							"content": "robot-like",
+							"tag": "li"
+						}
+					],
+					"data": {
+						"content": "glossary"
+					},
+					"lang": "en",
+					"style": {
+						"listStyleType": "circle"
+					},
+					"tag": "ul"
+				},
+				"type": "structured-content"
+			}
+		],
+		1314450,
+		"⭐ news12k"
+	],
+	[
+		"事務当局",
+		"じむとうきょく",
+		"n",
+		"",
+		1999800,
+		[
+			{
+				"content": {
+					"content": {
+						"content": "officials in charge",
+						"tag": "li"
+					},
+					"data": {
+						"content": "glossary"
+					},
+					"lang": "en",
+					"style": {
+						"listStyleType": "circle"
+					},
+					"tag": "ul"
+				},
+				"type": "structured-content"
+			}
+		],
+		1314460,
+		"⭐ news10k"
+	],
+	[
+		"事務服",
+		"じむふく",
+		"n",
+		"",
+		-200,
+		[
+			{
+				"content": {
+					"content": {
+						"content": "work clothes",
+						"tag": "li"
+					},
+					"data": {
+						"content": "glossary"
+					},
+					"lang": "en",
+					"style": {
+						"listStyleType": "circle"
+					},
+					"tag": "ul"
+				},
+				"type": "structured-content"
+			}
+		],
+		1314470,
+		""
+	],
+	[
+		"食べる",
+		"たべる",
+		"1 v1 vt",
+		"v1",
+		1999800,
+		[
+			{
+				"type": "structured-content",
+				"content": [
+					{
+						"content": {
+							"content": "to eat",
+							"tag": "li"
+						},
+						"tag": "ul",
+						"data": {
+							"content": "glossary"
+						},
+						"style": {
+							"listStyleType": "circle"
+						},
+						"lang": "en"
+					},
+					{
+						"content": [
+							{
+								"content": "もっと果物を食べるべきです。",
+								"tag": "li"
+							},
+							{
+								"content": "You should eat more fruit.",
+								"tag": "li",
+								"lang": "en",
+								"style": {
+									"listStyleType": "'🇬🇧 '"
+								}
+							}
+						],
+						"lang": "ja",
+						"data": {
+							"content": "examples"
+						},
+						"style": {
+							"listStyleType": "'🇯🇵 '"
+						},
+						"tag": "ul"
+					}
+				]
+			}
+		],
+		1358280,
+		"⭐ ichi news13k"
+	]
+]

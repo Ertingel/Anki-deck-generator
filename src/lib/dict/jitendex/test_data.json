@@ -1,0 +1,647 @@
+[
+	[
+		"食べる",
+		"たべる",
+		"★",
+		"v1",
+		200,
+		[
+			{
+				"type": "structured-content",
+				"content": [
+					{
+						"content": [
+							{
+								"content": "1-dan",
+								"tag": "span",
+								"style": {
+									"backgroundColor": "565656",
+									"borderRadius": "0.3em",
+									"color": "white",
+									"cursor": "help",
+									"fontSize": "0.8em",
+									"fontWeight": "bold",
+									"marginRight": "0.25em",
+									"padding": "0.2em 0.3em",
+									"verticalAlign": "text-bottom",
+									"wordBreak": "keep-all"
+								},
+								"data": {
+									"code": "v1"
+								},
+								"title": "Ichidan verb"
+							},
+							{
+								"content": "transitive",
+								"tag": "span",
+								"title": "transitive verb",
+								"data": {
+									"code": "vt"
+								},
+								"style": {
+									"backgroundColor": "565656",
+									"borderRadius": "0.3em",
+									"color": "white",
+									"cursor": "help",
+									"fontSize": "0.8em",
+									"fontWeight": "bold",
+									"marginRight": "0.25em",
+									"padding": "0.2em 0.3em",
+									"verticalAlign": "text-bottom",
+									"wordBreak": "keep-all"
+								}
+							},
+							{
+								"content": [
+									{
+										"content": [
+											{
+												"content": {
+													"content": "to eat",
+													"tag": "li"
+												},
+												"style": {
+													"listStyleType": "none",
+													"paddingLeft": "0"
+												},
+												"tag": "ul",
+												"data": {
+													"content": "glossary"
+												}
+											},
+											{
+												"content": {
+													"content": {
+														"content": [
+															{
+																"content": [
+																	"もっと",
+																	{
+																		"content": [
+																			"果",
+																			{
+																				"content": "くだ",
+																				"tag": "rt"
+																			}
+																		],
+																		"tag": "ruby"
+																	},
+																	{
+																		"content": [
+																			"物",
+																			{
+																				"content": "もの",
+																				"tag": "rt"
+																			}
+																		],
+																		"tag": "ruby"
+																	},
+																	"を",
+																	{
+																		"content": [
+																			{
+																				"content": [
+																					"食",
+																					{
+																						"content": "た",
+																						"tag": "rt"
+																					}
+																				],
+																				"tag": "ruby"
+																			},
+																			"べる"
+																		],
+																		"data": {
+																			"content": "example-keyword"
+																		},
+																		"tag": "span",
+																		"style": {
+																			"color": "color-mix(in srgb, lime, var(--text-color, var(--fg, #333)))"
+																		}
+																	},
+																	"べきです。"
+																],
+																"tag": "div",
+																"data": {
+																	"content": "example-sentence-a"
+																},
+																"style": {
+																	"fontSize": "1.3em"
+																}
+															},
+															{
+																"content": [
+																	"You should eat more fruit.",
+																	{
+																		"content": "[1]",
+																		"style": {
+																			"color": "777",
+																			"fontSize": "0.8em",
+																			"marginLeft": "0.25rem",
+																			"verticalAlign": "top"
+																		},
+																		"data": {
+																			"content": "attribution-footnote"
+																		},
+																		"tag": "span"
+																	}
+																],
+																"style": {
+																	"fontSize": "0.8em"
+																},
+																"tag": "div",
+																"data": {
+																	"content": "example-sentence-b"
+																}
+															}
+														],
+														"style": {
+															"backgroundColor": "color-mix(in srgb, var(--text-color, var(--fg, #333)) 5%, transparent)",
+															"borderColor": "var(--text-color, var(--fg, #333))",
+															"borderRadius": "0.4rem",
+															"borderStyle": "none none none solid",
+															"borderWidth": "calc(3em / var(--font-size-no-units, 14))",
+															"marginBottom": "0.5rem",
+															"marginTop": "0.5rem",
+															"padding": "0.5rem"
+														},
+														"data": {
+															"content": "example-sentence",
+															"sentence-key": "食べる",
+															"source": "193344",
+															"source-type": "tat"
+														},
+														"tag": "div"
+													},
+													"tag": "div"
+												},
+												"data": {
+													"content": "extra-info"
+												},
+												"style": {
+													"marginLeft": "0.5em"
+												},
+												"tag": "div"
+											}
+										],
+										"data": {
+											"sense-number": "1"
+										},
+										"tag": "li",
+										"style": {
+											"listStyleType": "\"①\"",
+											"paddingLeft": "0.25em"
+										}
+									},
+									{
+										"content": [
+											{
+												"content": [
+													{
+														"content": "to live on (e.g. a salary)",
+														"tag": "li"
+													},
+													{
+														"content": "to live off",
+														"tag": "li"
+													},
+													{
+														"content": "to subsist on",
+														"tag": "li"
+													}
+												],
+												"data": {
+													"content": "glossary"
+												},
+												"tag": "ul"
+											},
+											{
+												"content": {
+													"content": {
+														"content": [
+															{
+																"content": [
+																	{
+																		"content": [
+																			"僕",
+																			{
+																				"content": "ぼく",
+																				"tag": "rt"
+																			}
+																		],
+																		"tag": "ruby"
+																	},
+																	"は",
+																	{
+																		"content": [
+																			"脚",
+																			{
+																				"content": "きゃく",
+																				"tag": "rt"
+																			}
+																		],
+																		"tag": "ruby"
+																	},
+																	{
+																		"content": [
+																			"本",
+																			{
+																				"content": "ほん",
+																				"tag": "rt"
+																			}
+																		],
+																		"tag": "ruby"
+																	},
+																	{
+																		"content": [
+																			"家",
+																			{
+																				"content": "か",
+																				"tag": "rt"
+																			}
+																		],
+																		"tag": "ruby"
+																	},
+																	"で",
+																	{
+																		"content": [
+																			{
+																				"content": [
+																					"食",
+																					{
+																						"content": "た",
+																						"tag": "rt"
+																					}
+																				],
+																				"tag": "ruby"
+																			},
+																			"べて"
+																		],
+																		"tag": "span",
+																		"style": {
+																			"color": "color-mix(in srgb, lime, var(--text-color, var(--fg, #333)))"
+																		},
+																		"data": {
+																			"content": "example-keyword"
+																		}
+																	},
+																	"いく",
+																	{
+																		"content": [
+																			"決",
+																			{
+																				"content": "けっ",
+																				"tag": "rt"
+																			}
+																		],
+																		"tag": "ruby"
+																	},
+																	{
+																		"content": [
+																			"心",
+																			{
+																				"content": "しん",
+																				"tag": "rt"
+																			}
+																		],
+																		"tag": "ruby"
+																	},
+																	"をした。"
+																],
+																"data": {
+																	"content": "example-sentence-a"
+																},
+																"tag": "div",
+																"style": {
+																	"fontSize": "1.3em"
+																}
+															},
+															{
+																"content": [
+																	"I am determined to make a living as a playwright.",
+																	{
+																		"content": "[2]",
+																		"data": {
+																			"content": "attribution-footnote"
+																		},
+																		"tag": "span",
+																		"style": {
+																			"color": "777",
+																			"fontSize": "0.8em",
+																			"marginLeft": "0.25rem",
+																			"verticalAlign": "top"
+																		}
+																	}
+																],
+																"data": {
+																	"content": "example-sentence-b"
+																},
+																"style": {
+																	"fontSize": "0.8em"
+																},
+																"tag": "div"
+															}
+														],
+														"tag": "div",
+														"style": {
+															"backgroundColor": "color-mix(in srgb, var(--text-color, var(--fg, #333)) 5%, transparent)",
+															"borderColor": "var(--text-color, var(--fg, #333))",
+															"borderRadius": "0.4rem",
+															"borderStyle": "none none none solid",
+															"borderWidth": "calc(3em / var(--font-size-no-units, 14))",
+															"marginBottom": "0.5rem",
+															"marginTop": "0.5rem",
+															"padding": "0.5rem"
+														},
+														"data": {
+															"content": "example-sentence",
+															"sentence-key": "食べて",
+															"source": "81964",
+															"source-type": "tat"
+														}
+													},
+													"tag": "div"
+												},
+												"data": {
+													"content": "extra-info"
+												},
+												"tag": "div",
+												"style": {
+													"marginLeft": "0.5em"
+												}
+											}
+										],
+										"data": {
+											"sense-number": "2"
+										},
+										"tag": "li",
+										"style": {
+											"listStyleType": "\"②\"",
+											"paddingLeft": "0.25em"
+										}
+									}
+								],
+								"tag": "ol"
+							}
+						],
+						"tag": "div"
+					},
+					{
+						"content": [
+							{
+								"content": "JMdict",
+								"href": "https://www.edrdg.org/jmwsgi/entr.py?svc=jmdict&q=1358280",
+								"tag": "a"
+							},
+							" | Tatoeba ",
+							{
+								"content": "[1]",
+								"href": "https://tatoeba.org/en/sentences/show/193344",
+								"tag": "a"
+							},
+							{
+								"content": "[2]",
+								"href": "https://tatoeba.org/en/sentences/show/81964",
+								"tag": "a"
+							}
+						],
+						"tag": "div",
+						"style": {
+							"fontSize": "0.7em",
+							"textAlign": "right"
+						},
+						"data": {
+							"content": "attribution"
+						}
+					}
+				]
+			}
+		],
+		1358280,
+		""
+	],
+	[
+		"ライトウェルター級",
+		"ライトウェルターきゅう",
+		"",
+		"",
+		0,
+		[
+			{
+				"content": [
+					{
+						"content": [
+							{
+								"content": "noun",
+								"data": {
+									"code": "n"
+								},
+								"style": {
+									"backgroundColor": "565656",
+									"borderRadius": "0.3em",
+									"color": "white",
+									"cursor": "help",
+									"fontSize": "0.8em",
+									"fontWeight": "bold",
+									"marginRight": "0.25em",
+									"padding": "0.2em 0.3em",
+									"verticalAlign": "text-bottom",
+									"wordBreak": "keep-all"
+								},
+								"tag": "span",
+								"title": "noun (common) (futsuumeishi)"
+							},
+							{
+								"content": "sports",
+								"data": {
+									"code": "sports"
+								},
+								"style": {
+									"backgroundColor": "purple",
+									"borderRadius": "0.3em",
+									"color": "white",
+									"fontSize": "0.8em",
+									"fontWeight": "bold",
+									"marginRight": "0.25em",
+									"padding": "0.2em 0.3em",
+									"verticalAlign": "text-bottom",
+									"wordBreak": "keep-all"
+								},
+								"tag": "span"
+							},
+							{
+								"content": {
+									"content": {
+										"content": "light welterweight (boxing)",
+										"tag": "li"
+									},
+									"data": {
+										"content": "glossary"
+									},
+									"style": {
+										"listStyleType": "none",
+										"paddingLeft": "0"
+									},
+									"tag": "ul"
+								},
+								"tag": "div"
+							}
+						],
+						"tag": "div"
+					},
+					{
+						"content": [
+							{
+								"content": "forms",
+								"style": {
+									"backgroundColor": "565656",
+									"borderRadius": "0.3em",
+									"color": "white",
+									"cursor": "help",
+									"fontSize": "0.8em",
+									"fontWeight": "bold",
+									"marginRight": "0.25em",
+									"padding": "0.2em 0.3em",
+									"verticalAlign": "text-bottom",
+									"wordBreak": "keep-all"
+								},
+								"tag": "span",
+								"title": "spelling and reading variants"
+							},
+							{
+								"content": {
+									"content": [
+										{
+											"content": [
+												{
+													"tag": "th"
+												},
+												{
+													"content": "ライトウェルター級",
+													"style": {
+														"fontSize": "1.2em",
+														"fontWeight": "normal",
+														"textAlign": "center"
+													},
+													"tag": "th"
+												},
+												{
+													"content": "ライトウエルター級",
+													"style": {
+														"fontSize": "1.2em",
+														"fontWeight": "normal",
+														"textAlign": "center"
+													},
+													"tag": "th"
+												}
+											],
+											"tag": "tr"
+										},
+										{
+											"content": [
+												{
+													"content": "ライトウェルターきゅう",
+													"style": {
+														"fontWeight": "normal"
+													},
+													"tag": "th"
+												},
+												{
+													"content": {
+														"content": "◇",
+														"style": {
+															"background": "radial-gradient(var(--text-color, var(--fg, #333)) 50%, white 100%)",
+															"clipPath": "circle()",
+															"color": "var(--background-color, var(--canvas, #f8f9fa))",
+															"cursor": "help",
+															"fontWeight": "bold",
+															"padding": "0 0.5em"
+														},
+														"tag": "div",
+														"title": "valid form/reading combination"
+													},
+													"style": {
+														"textAlign": "center"
+													},
+													"tag": "td"
+												},
+												{
+													"tag": "td"
+												}
+											],
+											"tag": "tr"
+										},
+										{
+											"content": [
+												{
+													"content": "ライトウエルターきゅう",
+													"style": {
+														"fontWeight": "normal"
+													},
+													"tag": "th"
+												},
+												{
+													"tag": "td"
+												},
+												{
+													"content": {
+														"content": "◇",
+														"style": {
+															"background": "radial-gradient(var(--text-color, var(--fg, #333)) 50%, white 100%)",
+															"clipPath": "circle()",
+															"color": "var(--background-color, var(--canvas, #f8f9fa))",
+															"cursor": "help",
+															"fontWeight": "bold",
+															"padding": "0 0.5em"
+														},
+														"tag": "div",
+														"title": "valid form/reading combination"
+													},
+													"style": {
+														"textAlign": "center"
+													},
+													"tag": "td"
+												}
+											],
+											"tag": "tr"
+										}
+									],
+									"tag": "table"
+								},
+								"style": {
+									"marginTop": "0.2em"
+								},
+								"tag": "div"
+							}
+						],
+						"data": {
+							"content": "forms"
+						},
+						"style": {
+							"marginTop": "0.5rem"
+						},
+						"tag": "div"
+					},
+					{
+						"content": {
+							"content": "JMdict",
+							"href": "https://www.edrdg.org/jmwsgi/entr.py?svc=jmdict&q=1969520",
+							"tag": "a"
+						},
+						"data": {
+							"content": "attribution"
+						},
+						"style": {
+							"fontSize": "0.7em",
+							"textAlign": "right"
+						},
+						"tag": "div"
+					}
+				],
+				"type": "structured-content"
+			}
+		],
+		1969520,
+		""
+	]
+]

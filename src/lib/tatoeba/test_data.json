@@ -1,0 +1,715 @@
+{
+	"data": [
+		{
+			"id": 12824508,
+			"text": "食べる？",
+			"lang": "jpn",
+			"script": null,
+			"license": "CC BY 2.0 FR",
+			"transcriptions": [
+				{
+					"script": "Hrkt",
+					"text": "[食|た]べる？",
+					"needsReview": false,
+					"type": "altscript",
+					"html": "<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる？"
+				}
+			],
+			"audios": [],
+			"translations": [
+				[
+					{
+						"id": 773323,
+						"text": "Do you want to eat?",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/44821/file"
+							}
+						],
+						"owner": "marloncori"
+					}
+				],
+				[]
+			],
+			"owner": "bunbuku"
+		},
+		{
+			"id": 5254850,
+			"text": "食べる。",
+			"lang": "jpn",
+			"script": null,
+			"license": "CC BY 2.0 FR",
+			"transcriptions": [
+				{
+					"script": "Hrkt",
+					"text": "[食|た]べる。",
+					"needsReview": false,
+					"type": "altscript",
+					"html": "<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる。"
+				}
+			],
+			"audios": [],
+			"translations": [
+				[
+					{
+						"id": 1098495,
+						"text": "I will eat.",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [],
+						"owner": "cntrational"
+					},
+					{
+						"id": 1120797,
+						"text": "I eat.",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [],
+						"owner": "cntrational"
+					}
+				],
+				[
+					{
+						"id": 1189719,
+						"text": "I'm eating.",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/67159/file"
+							}
+						],
+						"owner": "Vortarulo"
+					},
+					{
+						"id": 1484057,
+						"text": "I am eating.",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [],
+						"owner": "Citrine"
+					},
+					{
+						"id": 1098492,
+						"text": "I ate.",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [],
+						"owner": "cntrational"
+					},
+					{
+						"id": 1120798,
+						"text": "I am food.",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [],
+						"owner": "cntrational"
+					},
+					{
+						"id": 2283872,
+						"text": "I drink.",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [],
+						"owner": "DJ_Saidez"
+					},
+					{
+						"id": 5401685,
+						"text": "We ate.",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/648969/file"
+							}
+						],
+						"owner": "sarefo"
+					}
+				]
+			],
+			"owner": "daichan"
+		},
+		{
+			"id": 5072721,
+			"text": "食べるな！",
+			"lang": "jpn",
+			"script": null,
+			"license": "CC BY 2.0 FR",
+			"transcriptions": [
+				{
+					"script": "Hrkt",
+					"text": "[食|た]べるな！",
+					"needsReview": false,
+					"type": "altscript",
+					"html": "<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べるな！"
+				}
+			],
+			"audios": [],
+			"translations": [
+				[
+					{
+						"id": 5072694,
+						"text": "Don't eat!",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [],
+						"owner": "CarpeLanam"
+					},
+					{
+						"id": 6029093,
+						"text": "Don't eat that!",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/1107902/file"
+							}
+						],
+						"owner": "Huskion"
+					}
+				],
+				[
+					{
+						"id": 631443,
+						"text": "Do not eat.",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [],
+						"owner": "AmberShadow"
+					},
+					{
+						"id": 2245323,
+						"text": "Don't eat this.",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/113152/file"
+							}
+						],
+						"owner": "CK"
+					},
+					{
+						"id": 6274938,
+						"text": "Don't eat it.",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/652111/file"
+							}
+						],
+						"owner": "CK"
+					},
+					{
+						"id": 8899280,
+						"text": "Don't eat it!",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [],
+						"owner": "shekitten"
+					}
+				]
+			],
+			"owner": "999yudai"
+		},
+		{
+			"id": 12206268,
+			"text": "これ食べる？",
+			"lang": "jpn",
+			"script": null,
+			"license": "CC BY 2.0 FR",
+			"transcriptions": [
+				{
+					"script": "Hrkt",
+					"text": "これ[食|た]べる？",
+					"needsReview": false,
+					"type": "altscript",
+					"html": "これ<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる？"
+				}
+			],
+			"audios": [],
+			"translations": [
+				[
+					{
+						"id": 3154896,
+						"text": "Are you going to eat this?",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/186277/file"
+							}
+						],
+						"owner": "CK"
+					},
+					{
+						"id": 12219214,
+						"text": "Would you like to eat this?",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/1168610/file"
+							}
+						],
+						"owner": "CK"
+					}
+				],
+				[]
+			],
+			"owner": "small_snow"
+		},
+		{
+			"id": 12047446,
+			"text": "プリン食べる？",
+			"lang": "jpn",
+			"script": null,
+			"license": "CC BY 2.0 FR",
+			"transcriptions": [
+				{
+					"script": "Hrkt",
+					"text": "プリン[食|た]べる？",
+					"needsReview": false,
+					"type": "altscript",
+					"html": "プリン<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる？"
+				}
+			],
+			"audios": [],
+			"translations": [
+				[
+					{
+						"id": 12047440,
+						"text": "Do you want some pudding?",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/1139803/file"
+							}
+						],
+						"owner": "CK"
+					}
+				],
+				[]
+			],
+			"owner": "small_snow"
+		},
+		{
+			"id": 9614921,
+			"text": "納豆食べれる？",
+			"lang": "jpn",
+			"script": null,
+			"license": "CC BY 2.0 FR",
+			"transcriptions": [
+				{
+					"script": "Hrkt",
+					"text": "[納豆|なっ|とう][食|た]べれる？",
+					"needsReview": false,
+					"type": "altscript",
+					"html": "<ruby>納<rp>（</rp><rt>なっ</rt><rp>）</rp></ruby><ruby>豆<rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べれる？"
+				}
+			],
+			"audios": [],
+			"translations": [
+				[
+					{
+						"id": 9621024,
+						"text": "Can you eat natto?",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [],
+						"owner": "DJ_Saidez"
+					}
+				],
+				[]
+			],
+			"owner": "Sim5634"
+		},
+		{
+			"id": 8725533,
+			"text": "食べる物ある？",
+			"lang": "jpn",
+			"script": null,
+			"license": "CC BY 2.0 FR",
+			"transcriptions": [
+				{
+					"script": "Hrkt",
+					"text": "[食|た]べる[物|もの]ある？",
+					"needsReview": false,
+					"type": "altscript",
+					"html": "<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>ある？"
+				}
+			],
+			"audios": [],
+			"translations": [
+				[
+					{
+						"id": 1977250,
+						"text": "Is there anything to eat?",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/91105/file"
+							}
+						],
+						"owner": "Spamster"
+					},
+					{
+						"id": 3393001,
+						"text": "Is there any food?",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/205157/file"
+							}
+						],
+						"owner": "CK"
+					}
+				],
+				[]
+			],
+			"owner": "bunbuku"
+		},
+		{
+			"id": 8596646,
+			"text": "いつ食べるの？",
+			"lang": "jpn",
+			"script": null,
+			"license": "CC BY 2.0 FR",
+			"transcriptions": [
+				{
+					"script": "Hrkt",
+					"text": "いつ[食|た]べるの？",
+					"needsReview": false,
+					"type": "altscript",
+					"html": "いつ<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べるの？"
+				}
+			],
+			"audios": [],
+			"translations": [
+				[
+					{
+						"id": 5460868,
+						"text": "When do we eat?",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/327878/file"
+							}
+						],
+						"owner": "mailohilohi"
+					},
+					{
+						"id": 7114326,
+						"text": "When do you eat?",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/661938/file"
+							}
+						],
+						"owner": "CM"
+					}
+				],
+				[
+					{
+						"id": 268727,
+						"text": "When shall we eat?",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/18198/file"
+							}
+						],
+						"owner": "CM"
+					},
+					{
+						"id": 5460141,
+						"text": "When are we going to eat?",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/332926/file"
+							}
+						],
+						"owner": "barryo"
+					}
+				]
+			],
+			"owner": "small_snow"
+		},
+		{
+			"id": 3699447,
+			"text": "アイス食べる？",
+			"lang": "jpn",
+			"script": null,
+			"license": "CC BY 2.0 FR",
+			"transcriptions": [
+				{
+					"script": "Hrkt",
+					"text": "アイス[食|た]べる？",
+					"needsReview": false,
+					"type": "altscript",
+					"html": "アイス<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる？"
+				}
+			],
+			"audios": [
+				{
+					"author": "yomi",
+					"attribution_url": "https://tatoeba.org/user/profile/yomi",
+					"license": "CC BY-NC 4.0",
+					"download_url": "https://api.tatoeba.org/unstable/audio/222120/file"
+				}
+			],
+			"translations": [
+				[
+					{
+						"id": 3424156,
+						"text": "Do you want some ice cream?",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/210559/file"
+							}
+						],
+						"owner": "CK"
+					},
+					{
+						"id": 6029232,
+						"text": "Would you like some ice cream?",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/769397/file"
+							}
+						],
+						"owner": "CK"
+					},
+					{
+						"id": 9259553,
+						"text": "Do you want to eat some ice cream?",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/839183/file"
+							}
+						],
+						"owner": "GioBo"
+					}
+				],
+				[]
+			],
+			"owner": "tommy_san"
+		},
+		{
+			"id": 3023122,
+			"text": "何食べてるの？",
+			"lang": "jpn",
+			"script": null,
+			"license": "CC BY 2.0 FR",
+			"transcriptions": [
+				{
+					"script": "Hrkt",
+					"text": "[何|なに][食|た]べてるの？",
+					"needsReview": false,
+					"type": "altscript",
+					"html": "<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby><ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べてるの？"
+				}
+			],
+			"audios": [
+				{
+					"author": "yomi",
+					"attribution_url": "https://tatoeba.org/user/profile/yomi",
+					"license": "CC BY-NC 4.0",
+					"download_url": "https://api.tatoeba.org/unstable/audio/178744/file"
+				}
+			],
+			"translations": [
+				[
+					{
+						"id": 1097919,
+						"text": "What are you eating?",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/63445/file"
+							}
+						],
+						"owner": "cntrational"
+					},
+					{
+						"id": 1830493,
+						"text": "What're you eating?",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/80453/file"
+							}
+						],
+						"owner": "CK"
+					}
+				],
+				[
+					{
+						"id": 6302496,
+						"text": "What are you eating right now?",
+						"lang": "eng",
+						"script": null,
+						"license": "CC BY 2.0 FR",
+						"transcriptions": [],
+						"audios": [
+							{
+								"author": "CK",
+								"attribution_url": "http://www.manythings.org/tatoeba",
+								"license": "CC BY-NC-ND 3.0",
+								"download_url": "https://api.tatoeba.org/unstable/audio/517791/file"
+							}
+						],
+						"owner": "Gulliver"
+					}
+				]
+			],
+			"owner": "tommy_san"
+		}
+	],
+	"paging": {
+		"total": 594,
+		"has_next": true,
+		"cursor_end": "-6,3023122",
+		"next": "https://api.tatoeba.org/unstable/sentences?lang=jpn&q=%E9%A3%9F%E3%81%B9%E3%82%8B&word_count=3-30&is_orphan=no&is_unapproved=no&is_native=yes&trans%3Alang=eng&trans%3Ais_direct=yes&trans%3Ais_unapproved=no&trans%3Ais_orphan=no&trans%3Acount=%210&sort=words&showtrans=eng&after=-6%2C3023122"
+	}
+}
